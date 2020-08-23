@@ -1,0 +1,88 @@
+
+
+/* dersler */
+
+
+#derslerCover {
+	display: flex;
+	box-sizing: border-box;
+	flex-wrap: wrap;
+	background:linear-gradient(140deg, #193b84 15%, #037bc1);
+	color: white;
+	padding: 20px 0;
+	
+}
+
+#derslerCover h2{
+	font-size: 18px;
+	font-weight: 700;
+	font-family: Helvetica;
+	vertical-align: baseline;
+	font-family: OpenSans;
+}
+
+#derslerCover p{
+	font-size: 13px;
+	padding-top: 15px;
+}
+
+
+#derslerCover .row{
+	padding:0 100px;
+}
+
+#derslerCover .col{
+	box-sizing: border-box;
+    width: calc((100% - 120px)/3);
+    margin: 50px 0
+}
+
+#dersler {
+	position: relative;
+	margin-top: 40px 0;
+	text-align: justify;
+	background: #f3f7f7;
+}
+
+
+#dersler .row {
+	padding: 20px 100px;
+	}
+
+#dersler .col {
+	box-shadow: 0 6px 16px 0 rgba(0,0,0,.2);
+	margin: 30px;
+	width: calc((100% - 180px)/3);
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding:30px;
+	min-height: 183px;
+	background: #fff;
+	float: left;
+
+}
+
+#dersler .col:hover{
+	box-shadow: 0 3px 8px 0 rgba(0,0,0,.2);
+}
+
+
+#dersler span{
+	color: #0e141e;
+	padding-right: 5px;
+	font-weight: 700;
+	line-height: 1.5;
+	vertical-align: middle;
+	font-size: 26px;
+	position: relative;
+	max-height: 72.8px;
+}
+
+
+
+.azdili:hover,.fizika:hover,.rusdili:hover,.english:hover,.cografiya:hover,.biologiya:hover,.tarix:hover,.programming:hover, .math:hover{
+	color: white;
+}
+
