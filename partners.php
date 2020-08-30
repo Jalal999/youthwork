@@ -76,25 +76,25 @@
         <div id="partnerINBIE">
             <p style="color:#666666">Poland</p>
             <p><a href="https://www.inbie.pl/"><b>Research and Innovation in Education Institute (Fundacja "Instytut Badań i Innowacji w Edukacji")</b></a></p>
-            <img src="inbie-logo.png">
+            <img src="images/inbie-logo.png">
         </div>
         <br>
         <div id="partnerICM">
             <p style="color:#666666">Czech Republic</p>
             <p><a href="https://www.icmjh.cz/"><b>Youth Information Centre Jindřichův Hradec (ICM Jindřichův Hradec z.s)</b></a></p>
-            <img width="200px" height="200px" src="ICM-logo.png">
+            <img width="200px" height="200px" src="images/ICM-logo.png">
         </div>
         <br>
         <div id="partnerYouthfully">
             <p style="color:#666666">Slovakia</p>
             <p><a href="https://youthfullyyours.sk/"><b>Youthfully Yours SK ("Youthfully Yours SK")</b></a></p>
-            <img width="200px" height="200px" src="youthfully-logo.png">
+            <img width="200px" height="200px" src="images/youthfully-logo.png">
         </div>
         <br>
         <div id="partnerYouthBridges">
             <p style="color:#666666">Hungary</p>
             <p><a href="https://www.youthbridgesbudapest.org/"><b>Youth Bridges Foundation ("Hidak Ifjúsági Alapítvány")</b></a></p>
-            <img src="youthbridges-logo.png">
+            <img src="images/youthbridges-logo.png">
         </div>
         <div id="partnerVisegrad">
             

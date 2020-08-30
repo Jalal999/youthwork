@@ -81,7 +81,7 @@ You may find useful content and materials prepared by Azerbaijani youth workers 
         <p></p><br>
 
         <b>Grant Support Received From Visegrad Fund:</b>
-        <a href="https://www.visegradfund.org/"><img width="325px" height="250px" src="visegrad-supported-by.jpg"></a>
+        <a href="https://www.visegradfund.org/"><img width="325px" height="250px" src="images/visegrad-supported-by.jpg"></a>
         <br><hr>
 
     

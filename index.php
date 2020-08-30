@@ -76,7 +76,7 @@
         <div class="row">
 
             <div class="col-md-3">
-                <a href="http://www.visegradfund.org/"><img width="250px" height="250px" src="logo.png"></a>
+                <a href="http://www.visegradfund.org/"><img width = "262.5px" height="100.8px" src="images/visegrad-logo.jpg"></a>
                 <p style="text-align: justify;">The project is co-financed by the Governments of Czechia,
 Hungary, Poland and Slovakia through Visegrad Grants from
 <a href="http://www.visegradfund.org/">International Visegrad Fund</a>. The mission of the fund is to advance
@@ -86,7 +86,7 @@ ideas for sustainable regional cooperation in Central Europe.</p>
                     <a href="#" class="list-group-item">Events</a>
                     <a href="#" class="list-group-item">Gallery</a>
                 </div>
-                <a href="https://esn.az/"><img width="250px" height="250px" src="esn-az-logo.jpg"></a>
+                <a href="https://esn.az/"><img width="250px" height="250px" src="images/esn-az-logo.jpg"></a>
             </div>
 
             <div class="col-md-9">
